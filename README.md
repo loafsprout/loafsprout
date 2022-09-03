@@ -12,7 +12,7 @@ I am currently a 3rd year Computer Science major in Malayan Colleges Laguna. I a
 - VueJs
 - UI Design
 
-##CURRENTLY LEARNING
+## CURRENTLY LEARNING
 
 - ReactJs
 - GSAP
