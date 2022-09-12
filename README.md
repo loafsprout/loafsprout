@@ -10,10 +10,10 @@ I am currently a 3rd year Computer Science major in Malayan Colleges Laguna. I a
 - SaSS
 - Vanilla Javascript
 - VueJs
+- GSAP
 - Figma for UI design
 
 ## CURRENTLY LEARNING
 
 - ReactJs
-- GSAP
 
