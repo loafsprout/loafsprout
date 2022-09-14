@@ -1,4 +1,4 @@
-# mei-e (she/her)
+# meisprout (she/her)
 
 ## ABOUT ME
 
