@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-I am currently a 3rd year Computer Science major in Malayan Colleges Laguna. I aspire to create websites that promote aesthetics and accessibility as I believe that all users deserve to experience pleasant visuals and functionality in web.
+I am currently a 3rd year Computer Science major in Malayan Colleges Laguna. I aspire to create websites that promote aesthetics, inclusivity, and sustainability as I believe that all users deserve to experience pleasant visuals and functionality in web.
 
 ## SKILLS
 
