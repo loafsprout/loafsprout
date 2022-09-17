@@ -16,4 +16,4 @@ I am currently a 3rd year Computer Science major in Malayan Colleges Laguna. I a
 ## CURRENTLY LEARNING
 
 - ReactJs
-
+- PHP for WordPress Development
