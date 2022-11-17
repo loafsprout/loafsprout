@@ -12,4 +12,3 @@
 ## CURRENTLY LEARNING
 
 - ReactJs
-- PHP for WordPress Development
