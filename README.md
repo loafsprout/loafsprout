@@ -5,10 +5,7 @@
 - HTML and CSS
 - SaSS
 - Vanilla Javascript
+- NextJs
 - VueJs
 - GSAP
 - Figma for UI design
-
-## CURRENTLY LEARNING
-
-- ReactJs
