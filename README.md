@@ -2,9 +2,10 @@
 
 ## SKILLS
 
-- HTML and CSS
-- SaSS
+- HTML/CSS/SASS
+- Bootstrap
 - Vanilla Javascript/Jquery
+- PHP
 - ReactJS/NextJS
 - GSAP
 - Figma for UI design
