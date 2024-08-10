@@ -2,9 +2,10 @@
 
 ## SKILLS
 
-- HTML/CSS/SASS
+- HTML/CSS/SCSS
 - Bootstrap
 - Vanilla Javascript/Jquery
+- Typescript
 - PHP
 - ReactJS/NextJS
 - GSAP
